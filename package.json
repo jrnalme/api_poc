@@ -1,0 +1,22 @@
+{
+  "name": "2019_10_23",
+  "version": "1.0.0",
+  "description": "An app demonstrating simple Restful API implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "restful",
+    "json"
+  ],
+  "author": "Abir Pal",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "jenkins": "^0.27.0",
+    "mongoose": "^5.7.6"
+  }
+}
